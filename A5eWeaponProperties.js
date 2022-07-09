@@ -1,5 +1,7 @@
 Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['breaker'] = 'Breaker';
+	CONFIG.DND5E.weaponProperties['breakerwood'] = 'Breaker(Wood)';
+	CONFIG.DND5E.weaponProperties['breakerstone'] = 'Breaker(Stone)';
   	CONFIG.DND5E.weaponProperties['compounding'] = 'Compounding';
 	CONFIG.DND5E.weaponProperties['defensive'] = 'Defensive';
 	CONFIG.DND5E.weaponProperties['dualwielding'] = 'Dual-Wielding';
