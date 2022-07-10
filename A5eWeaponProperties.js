@@ -12,6 +12,7 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['parrying'] = 'Parrying';
 	CONFIG.DND5E.weaponProperties['parryingimmune'] = 'Parry-Immune';
 	CONFIG.DND5E.weaponProperties['trip'] = 'Trip';
+	CONFIG.DND5E.weaponProperties['mounted'] = 'Mounted';
 	CONFIG.DND5E.weaponProperties['vicious'] = 'Vicious';
 	
 });
