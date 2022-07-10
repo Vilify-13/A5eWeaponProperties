@@ -3,7 +3,6 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['breakerwood'] = 'Breaker(Wood)';
 	CONFIG.DND5E.weaponProperties['breakerstone'] = 'Breaker(Stone)';
   	CONFIG.DND5E.weaponProperties['compounding'] = 'Compounding';
-	CONFIG.DND5E.weaponProperties['defensive'] = 'Defensive';
 	CONFIG.DND5E.weaponProperties['defensivelight'] = 'Defensive-Light';
 	CONFIG.DND5E.weaponProperties['defensivemed'] = 'Defensive-Med';
 	CONFIG.DND5E.weaponProperties['defensiveheavy'] = 'Defensive-Heavy';
@@ -14,6 +13,8 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['parryingimmune'] = 'Parry-Immune';
 	CONFIG.DND5E.weaponProperties['trip'] = 'Trip';
 	CONFIG.DND5E.weaponProperties['mounted'] = 'Mounted';
+	CONFIG.DND5E.weaponProperties['mercurial'] = 'Mercurial';
+	CONFIG.DND5E.weaponProperties['assassin'] = 'Assassin';
 	CONFIG.DND5E.weaponProperties['vicious'] = 'Vicious';
 	
 });
