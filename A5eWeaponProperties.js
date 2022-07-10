@@ -8,6 +8,7 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['defensivemed'] = 'Defensive-Med';
 	CONFIG.DND5E.weaponProperties['defensiveheavy'] = 'Defensive-Heavy';
 	CONFIG.DND5E.weaponProperties['dualwielding'] = 'Dual-Wielding';
+	CONFIG.DND5E.weaponProperties['doubleweapon'] = 'Double-Weapon';
 	CONFIG.DND5E.weaponProperties['handmounted'] = 'Hand-Mounted';
 	CONFIG.DND5E.weaponProperties['parrying'] = 'Parrying';
 	CONFIG.DND5E.weaponProperties['parryingimmune'] = 'Parry-Immune';
