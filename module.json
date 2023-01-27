@@ -10,5 +10,5 @@
   "manifest": "https://raw.githubusercontent.com/Vilify-13/A5eWeaponProperties/main/module.json",
   "download": "https://github.com/Vilify-13/A5eWeaponProperties/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.7.9"
+  "compatibleCoreVersion": "0.10.291"
 }
