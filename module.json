@@ -2,7 +2,7 @@
   "name": "A5eequipproperties",
   "title": "A5e Equipment Properties",
   "description": "Adds new A5e weapon properties",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "author": "Vilify",
   "systems": ["dnd5e"],
   "styles": [],
