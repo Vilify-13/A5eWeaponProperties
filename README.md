@@ -1,5 +1,5 @@
 # A5eWeaponProperties
-Adds A5e Weapon properties to D&amp;D 5e for Foundry
+Adds A5e Weapon properties to D&amp;D 5e items in Foundry
 
 ONLY COMPATIBLE WITH THE OFFICIAL D&D 5E SYSTEM FOR FOUNDRY VTT.
 
